@@ -10,3 +10,6 @@ and performs the corresponding operation'''</h>
 ![mod](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/10b120ba-5f88-4d5a-9f90-e3cb680563b1)
 ![mul](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/b6aedae9-1113-47bf-91d2-d25541d6ea56)
 ![sub](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/a48083cf-4fbf-4797-9761-4a4771574800)
+
+
+![fizzbuzz](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/f513b831-2191-4bab-a867-40e6b51b3a00)
