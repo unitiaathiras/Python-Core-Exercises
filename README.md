@@ -1,8 +1,8 @@
 # Python-Core-Exercises
 Python core exercises that will help to root in Python
 chatcalc
-'''Create a simple calculator program that takes two numbers and an operator (+-*/) as input
-and performs the corresponding operation'''
+<h>'''Create a simple calculator program that takes two numbers and an operator (+-*/) as input
+and performs the corresponding operation'''</h>
 
 ![add](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/ec576c7c-3c6d-475b-b558-cf1bbea64527)
 ![exp](https://github.com/unitiaathiras/Python-Core-Exercises/assets/127323277/6a66ef81-1837-407c-a3b1-407042e05570)
